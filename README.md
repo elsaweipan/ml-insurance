@@ -1,1 +1,1 @@
-# finalproject-insurance
+# final project - insurance classification
